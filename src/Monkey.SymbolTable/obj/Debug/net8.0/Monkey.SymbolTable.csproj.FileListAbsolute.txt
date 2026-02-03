@@ -1,0 +1,85 @@
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.deps.json
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.AssemblyReference.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfoInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfo.cs
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.CoreCompileInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.S.6D2DE0C2.Up2Date
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/refint/Monkey.SymbolTable.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/ref/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.deps.json
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfo.cs
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.S.6D2DE0C2.Up2Date
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/refint/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/ref/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/refint/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.deps.json
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.AssemblyReference.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfoInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfo.cs
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.CoreCompileInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.S.6D2DE0C2.Up2Date
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/ref/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.AssemblyInfo.cs
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.S.6D2DE0C2.Up2Date
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/refint/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.deps.json
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.SymbolTable/obj/Debug/net8.0/ref/Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.SymbolTable.deps.json
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.SymbolTable.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.AST.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.Common.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.AST.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\bin\Debug\net8.0\Monkey.Common.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.csproj.AssemblyReference.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.AssemblyInfoInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.AssemblyInfo.cs
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.csproj.CoreCompileInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.S.6D2DE0C2.Up2Date
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\refint\Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\Monkey.SymbolTable.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.SymbolTable\obj\Debug\net8.0\ref\Monkey.SymbolTable.dll

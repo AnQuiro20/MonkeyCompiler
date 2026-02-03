@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOXu9ELFCIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\begin\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\begin\\.nuget\\packages\\nstack.core\\0.17.0\\nstack.core.0.17.0.nupkg.sha512",
+    "C:\\Users\\begin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\begin\\.nuget\\packages\\terminal.gui\\1.6.0\\terminal.gui.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.TypeChecking\\Monkey.TypeChecking.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj",
+        "projectName": "Monkey.AST",
+        "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj",
+        "packagesPath": "C:\\Users\\begin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\begin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj",
+        "projectName": "Monkey.Common",
+        "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj",
+        "packagesPath": "C:\\Users\\begin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\begin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\Monkey.SymbolTable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\Monkey.SymbolTable.csproj",
+        "projectName": "Monkey.SymbolTable",
+        "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\Monkey.SymbolTable.csproj",
+        "packagesPath": "C:\\Users\\begin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\begin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj"
+              },
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.TypeChecking\\Monkey.TypeChecking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.TypeChecking\\Monkey.TypeChecking.csproj",
+        "projectName": "Monkey.TypeChecking",
+        "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.TypeChecking\\Monkey.TypeChecking.csproj",
+        "packagesPath": "C:\\Users\\begin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.TypeChecking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\begin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.AST\\Monkey.AST.csproj"
+              },
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.Common\\Monkey.Common.csproj"
+              },
+              "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\Monkey.SymbolTable.csproj": {
+                "projectPath": "C:\\Users\\begin\\Downloads\\ProyectoCursoCompi\\ProyectoCurso\\MonkeyCompiler\\src\\Monkey.SymbolTable\\Monkey.SymbolTable.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

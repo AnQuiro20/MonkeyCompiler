@@ -1,0 +1,4 @@
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/out_exe/obj/Release/net8.0/linux-x64/MonkeyGenerated.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/out_exe/obj/Release/net8.0/linux-x64/MonkeyGenerated.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/out_exe/obj/Release/net8.0/linux-x64/MonkeyGenerated.AssemblyInfo.cs
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/out_exe/obj/Release/net8.0/linux-x64/MonkeyGenerated.csproj.CoreCompileInputs.cache

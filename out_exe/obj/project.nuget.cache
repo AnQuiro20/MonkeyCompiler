@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gu283Lh4zoY=",
+  "success": true,
+  "projectFilePath": "/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/out_exe/MonkeyGenerated.csproj",
+  "expectedPackageFiles": [
+    "/home/erick-duran/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.21/microsoft.netcore.app.runtime.linux-x64.8.0.21.nupkg.sha512",
+    "/home/erick-duran/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.21/microsoft.aspnetcore.app.runtime.linux-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

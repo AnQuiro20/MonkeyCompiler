@@ -1,0 +1,95 @@
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.deps.json
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.AssemblyReference.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfoInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfo.cs
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.CoreCompileInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.T.70E3BA78.Up2Date
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/refint/Monkey.TypeChecking.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/ref/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.deps.json
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfo.cs
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.T.70E3BA78.Up2Date
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/refint/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/ref/Monkey.TypeChecking.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/refint/Monkey.TypeChecking.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.deps.json
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.AssemblyReference.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfoInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfo.cs
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.CoreCompileInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.T.70E3BA78.Up2Date
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/ref/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/refint/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.deps.json
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.AssemblyInfo.cs
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.TypeChecking.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/Monkey.T.70E3BA78.Up2Date
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.TypeChecking/obj/Debug/net8.0/ref/Monkey.TypeChecking.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.TypeChecking.deps.json
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.TypeChecking.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.TypeChecking.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.AST.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.Common.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.AST.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.Common.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\bin\Debug\net8.0\Monkey.SymbolTable.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.csproj.AssemblyReference.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.AssemblyInfoInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.AssemblyInfo.cs
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.csproj.CoreCompileInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.T.70E3BA78.Up2Date
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\refint\Monkey.TypeChecking.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\Monkey.TypeChecking.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.TypeChecking\obj\Debug\net8.0\ref\Monkey.TypeChecking.dll

@@ -1,0 +1,155 @@
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.exe
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.deps.json
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.runtimeconfig.json
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Antlr4.Runtime.Standard.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.AssemblyReference.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfoInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfo.cs
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.CoreCompileInputs.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.Up2Date
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/refint/Frontend.dll
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.pdb
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.genruntimeconfig.cache
+C:/Users/begin/OneDrive - Estudiantes ITCR/2S 2025/Compiladores e interpretes/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/ref/Frontend.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.deps.json
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.runtimeconfig.json
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Antlr4.Runtime.Standard.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfo.cs
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.Up2Date
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/refint/Frontend.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.pdb
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.genruntimeconfig.cache
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/ref/Frontend.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/NStack.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Terminal.Gui.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+/home/erick-duran/Descargas/proyecto0.80/proyecto/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/refint/Frontend.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.exe
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.deps.json
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.runtimeconfig.json
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Antlr4.Runtime.Standard.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/NStack.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Terminal.Gui.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.dll
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.pdb
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.AssemblyReference.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfoInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfo.cs
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.CoreCompileInputs.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.Up2Date
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.genruntimeconfig.cache
+C:/Users/begin/Downloads/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/ref/Frontend.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/refint/Frontend.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.deps.json
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.runtimeconfig.json
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Frontend.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Antlr4.Runtime.Standard.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/NStack.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Terminal.Gui.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/fr-FR/Terminal.Gui.resources.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/ja-JP/Terminal.Gui.resources.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/pt-PT/Terminal.Gui.resources.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.dll
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.AST.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.Common.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.SymbolTable.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.TypeChecking.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/bin/Debug/net8.0/Monkey.CodeGeneration.pdb
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.AssemblyReference.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfoInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.AssemblyInfo.cs
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.CoreCompileInputs.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.csproj.Up2Date
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/Frontend.genruntimeconfig.cache
+/home/erick-duran/Descargas/MonkeyCompilerZ/MonkeyCompiler/MonkeyCompiler/src/Monkey.Frontend/obj/Debug/net8.0/ref/Frontend.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\NStack.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Terminal.Gui.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\fr-FR\Terminal.Gui.resources.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\ja-JP\Terminal.Gui.resources.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\pt-PT\Terminal.Gui.resources.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.AST.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.CodeGeneration.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.Common.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.SymbolTable.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.TypeChecking.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.AST.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.Common.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.SymbolTable.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.TypeChecking.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\bin\Debug\net8.0\Monkey.CodeGeneration.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\begin\Downloads\MonkeyCompilerZA\MonkeyCompilerZ\MonkeyCompiler\MonkeyCompiler\src\Monkey.Frontend\obj\Debug\net8.0\ref\Frontend.dll
