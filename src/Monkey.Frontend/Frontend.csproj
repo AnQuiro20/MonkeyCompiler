@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <PackageReference Include="Antlr4.Runtime.Standard" Version="4.9.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Terminal.Gui" Version="1.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monkey.AST\Monkey.AST.csproj" />
+    <ProjectReference Include="..\Monkey.Common\Monkey.Common.csproj" />
+    <ProjectReference Include="..\Monkey.SymbolTable\Monkey.SymbolTable.csproj" />
+    <ProjectReference Include="..\Monkey.TypeChecking\Monkey.TypeChecking.csproj" />
+    <ProjectReference Include="..\Monkey.CodeGeneration\Monkey.CodeGeneration.csproj" />
+  </ItemGroup>
+
+  <!-- Exclude backup/generated parser copies to avoid duplicate type definitions -->
+  <ItemGroup>
+    <Compile Remove="ParserGen.bak\**\*.cs" />
+  </ItemGroup>
+
+</Project>
