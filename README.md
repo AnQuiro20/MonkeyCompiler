@@ -182,9 +182,9 @@ FUNC_END main
 ## 🚀 Estado del proyecto
 
 ✔️ Proyecto finalizado y funcional
+
 ✔️ Cumple con los requerimientos académicos
+
 ✔️ Diseñado con fines educativos y extensibles
 
 
-
-#
